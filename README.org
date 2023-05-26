@@ -1,0 +1,9 @@
+* duologue
+
+High level user interaction library for Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/mmontone/duologue.git |
+| commit  | ea1ada2                                      |
+| systems | duologue                                     |
+|---------+----------------------------------------------|
